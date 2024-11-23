@@ -1,5 +1,5 @@
 {
-  "name": "bun-restful-api",
+  "name": "bun-hono-restful-api",
   "scripts": {
     "dev": "bun run --hot src/index.ts"
   },
